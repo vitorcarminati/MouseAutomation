@@ -1,4 +1,5 @@
 Auto Clicker 🔥
+
 Este projeto é um Auto Clicker, uma ferramenta que automatiza cliques do mouse em intervalos definidos. Ideal para tarefas repetitivas, testes automatizados ou jogos.
 
 🛠️ Funcionalidades
