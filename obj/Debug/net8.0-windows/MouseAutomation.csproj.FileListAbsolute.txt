@@ -1,0 +1,17 @@
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.csproj.AssemblyReference.cache
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.AssemblyInfoInputs.cache
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.AssemblyInfo.cs
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.csproj.CoreCompileInputs.cache
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\MouseAutomation.exe
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\MouseAutomation.deps.json
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\MouseAutomation.runtimeconfig.json
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\MouseAutomation.dll
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\MouseAutomation.pdb
+E:\Repositorio\repos\backend\MouseAutomation\bin\Debug\net8.0-windows\WindowsInput.dll
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAut.00148CD5.Up2Date
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.dll
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\refint\MouseAutomation.dll
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.pdb
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\MouseAutomation.genruntimeconfig.cache
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net8.0-windows\ref\MouseAutomation.dll

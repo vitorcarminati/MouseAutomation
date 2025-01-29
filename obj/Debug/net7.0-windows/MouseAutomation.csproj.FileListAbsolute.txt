@@ -1,0 +1,4 @@
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net7.0-windows\MouseAutomation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net7.0-windows\MouseAutomation.AssemblyInfoInputs.cache
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net7.0-windows\MouseAutomation.AssemblyInfo.cs
+E:\Repositorio\repos\backend\MouseAutomation\obj\Debug\net7.0-windows\MouseAutomation.csproj.CoreCompileInputs.cache
